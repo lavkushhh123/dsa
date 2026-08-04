@@ -1,0 +1,2 @@
+jab purana result yaad rakhna ho
+recursion same problem ko baar baar solve kar rha ho tab hi dp lagana hai 
